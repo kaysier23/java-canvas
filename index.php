@@ -1,7 +1,6 @@
 <html>
 <body>
 <canvas class="js-canvas"></canvas>
-</body>
 <Script>
 
 class Cannabis {
@@ -75,8 +74,5 @@ class Cannabis {
 const cannabis = new Cannabis(document.querySelector('.js-canvas'));
 
 </script>
-
-
-
-
+</body>
 </html>
